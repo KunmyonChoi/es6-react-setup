@@ -1,0 +1,15 @@
+{
+  "name": "es6-react-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Kunmyon Choi <dilly97@gmail.com> (https://www.facebook.com/groups/598017553693335/)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
