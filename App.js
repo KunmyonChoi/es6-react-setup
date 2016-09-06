@@ -1,7 +1,8 @@
 import React from "react";
+
 class App extends React.Component {
 	render() {
-		return <div>Hi</div>
+		return React.createElement('h1', null, 'Hello Guys');
 	}
 }
 
